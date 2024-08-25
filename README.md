@@ -1,6 +1,6 @@
 # Hospital Management System
 
-A comprehensive hospital management system that handles patient data, appointments, staff management, billing, and inventory. This project is built with [your tech stack here] to provide a seamless experience for hospital administration.
+A comprehensive hospital management system that handles patient data, appointments, staff management, billing, and inventory. This project is built with .NET Framework. to provide a seamless experience for hospital administration.
 
 ## Features
 
